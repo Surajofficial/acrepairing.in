@@ -1,0 +1,320 @@
+body{
+   font-family: 'Roboto', sans-serif!important;
+}
+
+.color-light{
+    color:#fff!important;
+}
+.right-border{
+    border-right:.5px solid #ccc;
+}
+.color-blue{
+    color:#0061b4;
+}
+/* h1,h2,h3,h4,h5,h6{
+    color: blue !important;
+} */
+.border-shadow{
+    box-shadow: 0px 0px 1px 1px #f7f7f7;
+   
+}
+ul.navbar-nav li.nav-item{
+    padding:0 1em;
+    border-right:.5px solid #ccc;
+}
+ul.navbar-nav li.nav-item a{
+    
+     
+    text-align: center;
+    color:#000;
+    text-decoration: none;
+    
+}
+ul.navbar-nav li.nav-item a{
+    color:#0061b4;
+    border-bottom: 5px solid #fff;
+}
+ul.navbar-nav li.nav-item a:hover{
+    color:#0061b4;
+    border-bottom: 5px solid #0061b4;
+    }
+.navbar{
+    padding:0 1em;
+}
+.dropdown-toggle::after{
+    display:none;
+}
+.font-weight-600{
+    font-weight:600;
+}
+.text-blue{
+    color:#0061b4;
+}
+.bg-org{
+        background-color: #fed639;
+}
+.bg-gray{
+    background-color:#f3f3f3;
+}
+.ft-14{
+    font-size:14px;
+}
+.text-gray{
+    color:#CCCCCC;
+}
+.mibile-height{
+    line-height: 35px!important;
+}
+a.mibile-height:hover{
+    border-bottom: 1px solid #ccc!important;
+}
+.carousel-control-next, .carousel-control-prev{
+    width:5%!important
+}
+.carousel-caption{
+    left:5%!important;
+    right:5%!important;
+}
+.bg-blue{
+    background-color:#0061b4;
+}
+.form-control{
+              height: 44px;
+              
+          }
+/* ------------------------ Product Animation Home Page ---------------------------*/
+.hovereffect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default;
+    overflow: hidden;
+    max-height: 250px;
+}
+
+.hovereffect .overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+}
+
+.hovereffect img {
+  display: block;
+  position: relative;
+  -webkit-transition: all 0.4s ease-in;
+  transition: all 0.4s ease-in;
+}
+
+.hovereffect:hover img {
+  filter: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feColorMatrix type="matrix" color-interpolation-filters="sRGB" values="0.2126 0.7152 0.0722 0 0 0.2126 0.7152 0.0722 0 0 0.2126 0.7152 0.0722 0 0 0 0 0 1 0" /><feGaussianBlur stdDeviation="3" /></filter></svg>#filter');
+  filter: grayscale(1) blur(3px);
+  -webkit-filter: grayscale(1) blur(3px);
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.hovereffect h2 {
+  text-transform: uppercase;
+  text-align: center;
+  position: relative;
+  font-size: 17px;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.hovereffect a.info {
+  display: inline-block;
+  text-decoration: none;
+  padding: 7px 14px;
+  border: 1px solid #fff;
+  margin: 50px 0 0 0;
+  background-color: transparent;
+}
+
+.hovereffect a.info:hover {
+  box-shadow: 0 0 5px #fff;
+}
+
+.hovereffect a.info, .hovereffect h2 {
+  -webkit-transform: scale(0.7);
+  -ms-transform: scale(0.7);
+  transform: scale(0.7);
+  -webkit-transition: all 0.4s ease-in;
+  transition: all 0.4s ease-in;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  color: #fff;
+  text-transform: uppercase;
+    margin-top:2em;
+}
+
+.hovereffect:hover a.info, .hovereffect:hover h2 {
+  opacity: 1;
+  filter: alpha(opacity=100);
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
+
+/*-------------------------End Product Animation Home Page---------------------------------*/
+
+
+/* -----------------------Product Carousel Css----------------------------*/
+h2{
+  text-align:center;
+  padding: 20px;
+}
+/* Slider */
+
+.slick-slide {
+    margin: 0px 20px;
+}
+
+.slick-slide img {
+    width: 100%;
+}
+
+.slick-slider
+{
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+            user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+        touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list
+{
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.slick-list:focus
+{
+    outline: none;
+}
+.slick-list.dragging
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list
+{
+    -webkit-transform: translate3d(0, 0, 0);
+       -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+         -o-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+.slick-track
+{
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+}
+.slick-track:before,
+.slick-track:after
+{
+    display: table;
+    content: '';
+}
+.slick-track:after
+{
+    clear: both;
+}
+.slick-loading .slick-track
+{
+    visibility: hidden;
+}
+
+.slick-slide
+{
+    display: none;
+    float: left;
+    height: 100%;
+    min-height: 1px;
+}
+[dir='rtl'] .slick-slide
+{
+    float: right;
+}
+.slick-slide img
+{
+    display: block;
+}
+.slick-slide.slick-loading img
+{
+    display: none;
+}
+.slick-slide.dragging img
+{
+    pointer-events: none;
+}
+.slick-initialized .slick-slide
+{
+    display: block;
+}
+.slick-loading .slick-slide
+{
+    visibility: hidden;
+}
+.slick-vertical .slick-slide
+{
+    display: block;
+    height: auto;
+    border: 1px solid transparent;
+}
+.slick-arrow.slick-hidden {
+    display: none;
+}
+
+/*----------------end Product Carousel ---------------------------*/
+
+@media(max-width:767px){
+    .mobile-nav{
+    padding: 0em 0em 0 0;
+    }
+    .navbar-toggler{
+        border: 1px solid #6d6d6d;
+    }
+    /* .navbar-toggler-icon{
+        
+    } */
+    .fa fa-bars{
+        color:#6d6d6d;
+    }
+    .line-height{
+        line-height:30px!important;
+    }
+    ul.navbar-nav li.nav-item {
+    padding: 0 1em;
+     border-right: 0px solid #ccc; 
+        border-bottom:0.5px solid #ccc; 
+}
+}
+@media (min-width: 576px){
+.modal-dialog {
+    max-width: 600px !important;
+    margin: 1.75rem auto;
+}
+}

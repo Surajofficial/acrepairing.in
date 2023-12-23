@@ -1,0 +1,138 @@
+.drop_down li {
+  list-style: none;
+  text-align: left;
+
+}
+
+.drop_down {
+  width: auto;
+  position: absolute;
+  text-align: left;
+  padding-left: 2px;
+  display: none;
+  background-color: #0061b4;
+  padding-bottom: 1rem;
+}
+
+@media only screen and (max-width: 999px) {
+  .drop_down {
+    background-color: white !important;
+    position: relative;
+  }
+}
+
+.log-nav li {
+  line-height: 25px !important;
+}
+
+.text-nav .navbar {
+  padding: 0em 1em !important;
+}
+
+.text-nav .mobile-nav .nav-link {
+  color: white !important;
+  margin-bottom: 0 !important;
+  border-bottom: 3px solid #0061b4 !important;
+}
+
+.text-nav .nav-item a {
+  font-weight: bolder;
+  padding-bottom: 0 !important;
+}
+
+.text-nav .mobile-nav .nav-link:hover {
+  /* color: white !important; */
+  border-bottom: 3px solid white !important;
+}
+
+.detail-nav .nav-link {
+  /* color: white !important; */
+  margin-bottom: 0 !important;
+  border-bottom: none !important;
+}
+
+.social-links a svg {
+  padding: 5px;
+  width: 25px;
+}
+
+.facebook {
+  /* width: 20px !important; */
+  /* background-color: white; */
+  color: white !important;
+}
+
+.fa-facebook-f {
+  width: 20px !important;
+  /* background-color: white; */
+  color: white !important;
+}
+
+.youtube {
+  width: 20px !important;
+  /* background-color: white; */
+  color: white !important;
+}
+
+.instagram {
+  width: 20px !important;
+  font-weight: bolder;
+  /* background-color: white; */
+  color: white !important;
+}
+
+.linkedin {
+  width: 20px !important;
+  /* background-color: white; */
+  color: white !important;
+}
+
+.twitter {
+  width: 20px !important;
+  /* background-color: white; */
+  color: white !important;
+}
+
+.disable-click {
+  pointer-events: none;
+}
+
+.mkmarquee {
+  background: #f9e70a;
+  color: #0c0c0c;
+  font-weight: bold;
+  padding: 7px 0px 5px 0;
+}
+
+@media screen and (max-width: 770px) {
+  .for-mobile {
+    display: block;
+  }
+}
+
+.mobile_section {
+  margin-top: 0px !important;
+}
+
+@media screen and (max-width: 5580PX) {
+  .cl {
+    margin-left: 77px;
+  }
+}
+
+.mobile_section {
+  margin-top: 0px !important;
+}
+
+.icon {
+  padding: 2px;
+  margin: 2px;
+}
+
+.phone,
+.course {
+  text-decoration: none;
+  color: #333;
+  font-size: 14px;
+
+}
