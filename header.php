@@ -84,7 +84,7 @@ if (!(isset($url))) {
         <div class="row border-shadow detail-nav d-block d-sm-flex">
             <div class="col-sm-3 p-1 d-block d-sm-block" style="padding-bottom: 0 !important">
                 <h3 class="color-blue text-center md-0 pd-0">
-                    <a href="/"><img width="65%" height="100px" src="assets/images/client/logo.jpeg" /></a>
+                    <a href="/"><img src="assets/images/logo.png" /></a>
                 </h3>
             </div>
             <div class="col-12 col-sm-9 mobile-nav">
