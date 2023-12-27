@@ -136,3 +136,26 @@
   font-size: 14px;
 
 }
+
+#enquiry {
+  background: linear-gradient(0deg,
+      rgba(180, 16, 16, 1) 0%,
+      rgb(255 1 1) 100%) !important;
+  min-width: 150px;
+  height: 40px;
+  position: relative;
+}
+
+strong {
+  color: #000000;
+  font-weight:bolder !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 1.5rem !important;
+}

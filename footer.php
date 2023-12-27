@@ -3,33 +3,30 @@
     <div class="row">
       <div class="col-sm-3 color-light">
         <h5 class="color-light  font-weight-bold ">About us</h5>
-        <p class="ft-14 text-gray ">Microchip Expert Solution is an ISO 9001:2008 Certified Institute with expert
-          faculty and focusing in the area of training of chip level Laptop Repairing course</p>
+        <p class="ft-14 text-gray ">AC PCB Repairing Institute is an ISO 9001:2008 Certified Institute with expert
+          faculty and focusing in the area of training of AC PCB Repairing course</p>
         <a href="https://www.facebook.com/multitechinstitute" class="p-2 color-light"><i class="fa fa-facebook"></i></a>
         <a href="https://www.instagram.com/multitechdelhi/" class="p-2 color-light"><i class="fa fa-instagram"></i></a>
         <a href="https://www.youtube.com/c/MultitechInstituteOfAdvanceTechnologies/featured" class="p-2 color-light"><i class="fa fa-youtube"></i></a>
         <a href="https://twitter.com/Multitechdelhi" class="p-2 color-light"><i class="fa fa-twitter"></i></a>
         <a href="https://www.linkedin.com/in/multitechdelhi/" class="p-2 color-light"><i class="fa fa-linkedin"></i></a>
         <a href="https://www.reddit.com/user/Multitechdelhi" class="p-2 color-light"><i class="fa fa-reddit"></i></a>
-        <!--<a href="#" class="p-2 color-light"><i class="fa fa-youtube"></i></a>
-              <a href="#" class="p-2 color-light"><i class="fa fa-instagram"></i></a>-->
       </div>
       <div class="col-sm-3">
         <h5 class="color-light font-weight-bold">Courses</h5>
-        <ul style="list-style:none;" class="pl-0 text-gray ">
-          <li><a href="cctv-camera-repairing-course.php" class="text-gray ft-14">CCTV Repairing Course</a></li>
-          <li><a href="fire-alarm-course.php" class="text-gray ft-14">Fire Alarm Installation Training</a></li>
-          <li><a href="cctv-camera-installation.php" class="text-gray ft-14">CCTV Camera Installation Training</a></li>
-          <li><a href="access-control-training.php" class="text-gray ft-14">Access Control</a></li>
-          <li><a href="contact.php" class="text-gray ft-14"></a></li>
+        <ul style="list-style: none;" class="pl-0 text-gray">
+          <li><a href="ac-pcb-repairing-course.php" class="text-gray ft-14">AC PCB Repairing Course</a></li>
+          <li><a href="ac-mechanical-repairing-course.php" class="text-gray ft-14">AC Mechanical Repairing Course</a></li>
+          <li><a href="led-tv-repairing-course.php" class="text-gray ft-14">LED TV Repairing Course</a></li>
+          <li><a href="inverter-repairing-course.php" class="text-gray ft-14">Inverter Repairing Course</a></li>
         </ul>
+
       </div>
       <div class="col-sm-3">
         <h5 class="color-light font-weight-bold">Quick Links</h5>
         <ul style="list-style:none;" class="pl-0 text-gray">
-          <li><a href="index.php" class="text-gray ft-14">Home</a></li>
+          <li><a href="/" class="text-gray ft-14">Home</a></li>
           <li><a href="aboutus.php" class="text-gray ft-14">About Us</a></li>
-          <li><a href="gallery.php" class="text-gray ft-14">Gallery</a></li>
           <li><a href="contactus.php" class="text-gray ft-14">Contact Us</a></li>
         </ul>
       </div>
@@ -40,9 +37,9 @@
             <i class="fa fa-map-marker"></i>&nbsp;29/4A, 2nd Floor, Behind Tilak Nagar Metro Gate No.3, Ashok Nagar,
             Double Story, New Delhi-110018
           </li>
-          <li class="pb-2"> <i class="fa fa-phone"></i>&nbsp;+91-9716992246</li>
-          <li class="pb-2"> <i class="fa fa-envelope"></i>&nbsp;cctvtraininghubdelhi@gmail.com</li>
-          <li class="pb-2"> <i class="fa fa fa-globe"></i>&nbsp;www.cctvtraininghub.com</li>
+          <li class="pb-2"> <i class="fa fa-phone"></i>&nbsp;+91-9599704405</li>
+          <li class="pb-2"> <i class="fa fa-envelope"></i>&nbsp;acrepairingcourse@gmail.com</li>
+          <li class="pb-2"> <i class="fa fa fa-globe"></i>&nbsp;www.acrepairingcourse.in</li>
         </ul>
       </div>
     </div>
@@ -50,12 +47,12 @@
 
 </footer>
 <div class="container-fluid pt-2 pb-2 pl-4">
-  <p class="ft-14 text-center color-dark">Copyright &copy; CCTV TRAINING HUB <span id="year"></span>. All Rights
+  <p class="ft-14 text-center color-dark">Copyright &copy; AC PCB Repairing Institute <span id="year"></span>. All Rights
     Reserved.</p>
 </div>
 
 
-<div id="myModal" class="modal fade" style="" role="dialog">
+<div id="myModal" class="modal fade" role="dialog">
   <div class="modal-dialog">
 
     <!-- Modal content-->
@@ -137,7 +134,7 @@
     </span>
   </a>
   <div class="callbook_logo">
-    <a id="cb_mail" class="icon" href="mailto:microchipexpert@gmail.com?subject=Hi CCTVHUB, I am interested in your services.">
+    <a id="cb_mail" class="icon" href="mailto:acrepairingcourse.in@gmail.com?subject=Hi ACPCB, I am interested in your services.">
       <div class="callbook-icona-busta-lettera" style="margin-top: 6px; margin-left: 7px;"><i class="fa fa-envelope fa-2x" style="color:#fff;"></i></div>
     </a>
   </div>
@@ -216,49 +213,13 @@
 <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
 <script type="application/javascript">
   <?php for ($i = 1; $i <= 6; $i++) { ?>
-
-
     $("#mksubmit_<?= $i ?>").click(function(e) {
       $("#captcha_<?= $i ?>").val("123321");
       e.preventDefault()
-      //   var name_<?= $i ?> = $("#name_<?= $i ?>").val();
-      //   var email_<?= $i ?> = $("#email_<?= $i ?>").val();
-      //   var phone_<?= $i ?>  = $("#phone_<?= $i ?>").val();
-
-
-      //   if (name_<?= $i ?>== ''){
-      //   $("#error_<?= $i ?>").fadeIn();
-      //   $("#success_<?= $i ?>").fadeOut();
-      //   $("#error_<?= $i ?>").text("Name can not be blank");
-      //   return false;
-      // }else {
-      //   $("#error_<?= $i ?>").hide();
-      //   $("#error_<?= $i ?>").text("");
-      // }
-
-      // if (phone_<?= $i ?>== '') {
-      //   $("#error_<?= $i ?>").show();
-      //   $("#success_<?= $i ?>").fadeOut();
-      //   $("#error_<?= $i ?>").text("phone can not be blank");
-      //   return false;
-      // }else {
-      //   if (!validPhone(phone_<?= $i ?>)) {
-      //     $("#error_<?= $i ?>").show();
-      //     $("#success_<?= $i ?>").fadeOut();
-      //     $("#error_<?= $i ?>").text("Invalid Mobile Number");
-      //     return false;
-      //   } else {
-      //     $("#error_<?= $i ?>").hide();
-      //     $("#error_<?= $i ?>").text("");
-      //   }
-      // }
-      //alert("hi");
-
       var all_data_<?= $i ?> = $("#myform_<?= $i ?>").serialize();
-      //alert(all_data);
       $.ajax({
         type: "GET",
-        url: "https://cctvtraininghub.com/mail.php",
+        url: "mail.php",
         data: all_data_<?= $i ?>,
         beforeSend: function() {
           $("#mksubmit_<?= $i ?>").css("background", "#FFF url('loaderIcon.gif') no-repeat 25px");
@@ -267,7 +228,7 @@
           if (data == 1) {
             $("#success_<?= $i ?>").fadeIn();
             $("#error_<?= $i ?>").fadeOut();
-             $("#myModal").modal('hide');
+            $("#myModal").modal('hide');
             $("#mksubmit_<?= $i ?>").css("background", "");
             $("#myform_<?= $i ?>")[0].reset();
             $("#success_<?= $i ?>").fadeOut(2000);
@@ -285,8 +246,6 @@
         }
       });
     });
-
-
   <?php  } ?>;
 </script>
 <script>
@@ -310,13 +269,7 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
 <script>
   $(document).ready(function() {
-    // $(".fancybox").fancybox({
-    //   openEffect: "none",
-    //   closeEffect: "none"
-    // });
-
     $(".zoom").hover(function() {
-
       $(this).addClass('transition');
     }, function() {
 
@@ -332,18 +285,18 @@
 <script src="assets/js/js.js"></script>
 
 
-<script>
+<!-- <script>
   $(window).on('load', function() {
     $('.modal-dialog').css('max-width', '600px');
     $('#myModal').modal('show');
   });
-</script>
+</script> -->
 
-<script src="https://cctvtraininghub.com/assets/js/jquery-3.3.1.min.js"></script>
-<script src="https://cctvtraininghub.com/assets/js/popper.min.js"></script>
-<script src="https://cctvtraininghub.com/assets/js/bootstrap.min.js"></script>
-<script src="https://cctvtraininghub.com/assets/js/jquery.sticky.js"></script>
-<script src="https://cctvtraininghub.com/assets/js/main.js"></script>
+<script src="assets/js/jquery-3.3.1.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/jquery.sticky.js"></script>
+<script src="assets/js/main.js"></script>
 <script src="./assets/js/myscript.js"></script>
 </body>
 

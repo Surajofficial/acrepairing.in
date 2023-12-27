@@ -11,12 +11,12 @@ if (!(isset($url))) {
     <!-- Required meta tags -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta property="og:title" content="CCTV Camera Repairing Course || CCTV Camera Repairing Training institute">
-    <meta property="og:site_name" content="CCTV Training Hub">
-    <meta property="og:url" content="https://cctvtraininghub.com/">
-    <meta property="og:description" content="Microchip Expert is the best training institute for CCTV Camera Repairing Course. We provide advance technology for practical.">
+    <meta property="og:title" content="Ac Repairing Course || Ac Repairing Training institute">
+    <meta property="og:site_name" content="Ac PCB Training Hub">
+    <meta property="og:url" content="">
+    <meta property="og:description" content="Ac PCB repairing institute is the best training institute for Ac Repairing Course. We provide advance technology for practical.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://cctvtraininghub.com/assets/images/banner/new_cctv_banner_1.jpg">
+    <meta property="og:image" content="assets/images/banner/new_cctv_banner_1.jpg">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
     <link rel="stylesheet" href="assets/css/style.css" />
@@ -84,7 +84,7 @@ if (!(isset($url))) {
         <div class="row border-shadow detail-nav d-block d-sm-flex">
             <div class="col-sm-3 p-1 d-block d-sm-block" style="padding-bottom: 0 !important">
                 <h3 class="color-blue text-center md-0 pd-0">
-                    <a href="index.php"><img width="65%" src="assets/images/client/mic.png" /></a>
+                    <a href="/"><img width="65%" height="100px" src="assets/images/client/logo.jpeg" /></a>
                 </h3>
             </div>
             <div class="col-12 col-sm-9 mobile-nav">
@@ -94,7 +94,7 @@ if (!(isset($url))) {
                             <ul class="navbar-nav log-nav mr-auto">
                                 <li class="nav-item active d-none d-sm-flex">
                                     <i class="fa fa-map-marker" style="font-size: 60px; color: red"></i>
-                                    <a class="nav-link line-height text-left" target="_blank" href="https://g.page/multitechinstitute?share">CCTV Training Institute <br />
+                                    <a class="nav-link line-height text-left" target="_blank" href="https://g.page/multitechinstitute?share">Ac PCB repairing institute <br />
                                         <span class="course">Delhi India</span>
                                     </a>
                                 </li>
@@ -104,15 +104,15 @@ if (!(isset($url))) {
                                     <i class="fa fa-phone d-none d-sm-none mt-2" style="font-size: 30px"></i>
                                     &nbsp;
                                     <div class="d-flex cl">
-                                        <a href="tel:+91-9716992246" class="text-left nav-link line-height">Call Us:
-                                            <span style="text-decoration: none; color: #333">+91-9716992246</span>
+                                        <a href="tel:+91-9599704405" class="text-left nav-link line-height">Call Us:
+                                            <span style="text-decoration: none; color: #333">+91-9599704405</span>
                                             <br /><span class="d-sm-block d-none phone">For course information</span></a>
                                     </div>
                                 </li>
                                 <li class="nav-item d-none d-sm-flex">
                                     <i class="fa fa-whatsapp" style="font-size: 60px; color: green"></i>
-                                    <a class="nav-link line-height text-left" href="https://wa.me/919716992246">Whatsapp:
-                                        <span style="text-decoration: none; color: #333">+91-9716992246</span>
+                                    <a class="nav-link line-height text-left" href="https://wa.me/919599704405">Whatsapp:
+                                        <span style="text-decoration: none; color: #333">+91-9599704405</span>
                                         <br /><span class="course">For course information</span></a>
                                 </li>
                             </ul>
@@ -141,75 +141,31 @@ if (!(isset($url))) {
 
                                                 <ul class="site-menu main-menu js-clone-nav d-none d-lg-flex" style="list-style-type: none">
                                                     <li class="nav-item active">
-                                                        <a class="nav-link" href="<?php echo $url; ?>index.php"><i class="fa fa-home"></i> Home
+                                                        <a class="nav-link" href="<?php echo $url; ?>"><i class="fa fa-home"></i> Home
                                                         </a>
                                                     </li>
                                                     <li class="nav-item drop2">
-                                                        <!-- <a class="nav-link " href="fire-alarm-course.php">Fire Alarm </a> -->
-                                                        <a class="nav-link dropdown-toggle drop1" href="<?php echo $url; ?>cctv-camera-repairing-course.php">
-                                                            Advance CCTV Courses
+                                                        <a class="nav-link dropdown-toggle drop1" href="<?php echo $url; ?>ac-pcb-repairing-course.php">
+                                                            Our Course
                                                         </a>
                                                         <ul class="drop_down">
                                                             <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>infrared-security-camera.php">Infrared (IR) Security Camera</a>
+                                                                <a class="dropdown-item" href="<?php echo $url; ?>ac-pcb-repairing-course.php">AC PCB Repairing Course</a>
                                                             </li>
                                                             <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>dome-cctv-camera.php">Dome CCTV Camera</a>
+                                                                <a class="dropdown-item" href="<?php echo $url; ?>ac-mechanical-repairing-course.php">AC Mechanical Repairing Course</a>
                                                             </li>
                                                             <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>ip-camera.php">
-                                                                    IP CCTV Camera</a>
+                                                                <a class="dropdown-item" href="<?php echo $url; ?>led-tv-repairing-course.php">LED TV Repairing Course</a>
                                                             </li>
                                                             <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>bullet-camera.php">
-                                                                    Bullet Camera</a>
-                                                            </li>
-                                                            <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>wireless-camera.php">
-                                                                    Wireless Camera</a>
-                                                            </li>
-                                                            <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>fish-eye-camera.php">
-                                                                    Fish Eye camera</a>
-                                                            </li>
-
-                                                            <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>pro-box-cctv-camera.php">Pro Box CCTV Camera</a>
-                                                            </li>
-                                                            <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>dvr-cctv-camera.php">DVR</a>
-                                                            </li>
-                                                            <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>nvr-cctv-camera.php">NVR</a>
+                                                                <a class="dropdown-item" href="<?php echo $url; ?>inverter-repairing-course.php">Inverter Repairing Course</a>
                                                             </li>
                                                         </ul>
-                                                    </li>
-                                                    <li class="nav-item drop2">
-                                                        <!-- <a class="nav-link " href="fire-alarm-course.php">Fire Alarm </a> -->
-                                                        <a class="nav-link dropdown-toggle drop1" href="<?php echo $url; ?>ac-repairing-course.php">
-                                                            AC Repairing Course
-                                                        </a>
-                                                        <ul class="drop_down">
-                                                            <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>inverter-ac-repairing.php">Inverter AC Repairing</a>
-                                                            </li>
-                                                            <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>non-inverter-ac-repairing.php">
-                                                                    Non Inverter AC Repairing</a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <!-- <li class="nav-item">
-                            <a class="nav-link " href="<?php echo $url; ?>ac-repairing-course.php">AC Repairing Course
-                            </a>
-                          </li> -->
-                                                    <li class="nav-item">
-                                                        <a class="nav-link" href="<?php echo $url; ?>led-tv-repairing-course.php">LED TV Repairing Course</a>
-                                                    </li>
 
+                                                    </li>
                                                     <li class="nav-item">
-                                                        <a class="nav-link" href="<?php echo $url; ?>blog.php">Blog
-                                                        </a>
+                                                        <a class="nav-link" href="<?php echo $url; ?>aboutus.php">About Us</a>
                                                     </li>
                                                     <li class="nav-item">
                                                         <a class="nav-link" href="<?php echo $url; ?>contactus.php">Contact Us</a>
@@ -228,17 +184,7 @@ if (!(isset($url))) {
                 <header>
                     <nav class="navbar navbar-expand-lg">
                         <a href="contact.php">
-                            <button type="button" class="text-white" style="
-                    background: linear-gradient(
-                      0deg,
-                      rgba(180, 16, 16, 1) 0%,
-                      rgb(255 1 1) 100%
-                    );
-                    min-width: 150px;
-                    /* font-weight: 600; */
-                    height: 40px;
-                    position: relative;
-                  ">
+                            <button type="button" class="text-white" id="enquiry">
                                 <i class="fa fa fa-envelope"></i> &nbsp; ENQUIRY
                             </button>
                         </a>

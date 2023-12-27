@@ -1,12 +1,12 @@
 <?php
-$title = "CCTV installation Course online";
-$description = "We at Microchip give training for installation of cctv camera and dvr. We provide cctv installation course online also.";
-$keyword = "Cctv installation course online, online cctv installation course, cctv installation training institute in delhi, cctv camera installation training center,";
+$title = "About us | Ac Repairing Institute";
+$description = " ";
+$keyword = " ";
 $classification = "";
 $geography = "India";
 $country = "india";
-$copyright = " Microchip Expert";
-$designer = "Microchip";
+$copyright = "Ac PCB Repairing Institute";
+$designer = "Ac PCB Repairing Institute";
 $language = "english";
 $robots = "index, follow";
 
@@ -58,7 +58,7 @@ $robots = "index, follow";
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="assets/images/banner/cctvabout.jpg" alt="CCTV banner 1" class="fluid-img">
+              <img class="d-block w-100" src="assets/images/banner/ac mechancialbanner.jpg" alt="CCTV banner 1" class="fluid-img">
               <div class="carousel-caption d-none d-md-block">
 
               </div>
@@ -222,14 +222,14 @@ $robots = "index, follow";
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <p> </p>
       <div class="pt-4 p-4 bg-gray" style="height: 335px;">
-        <h5>CCTV Training Institute</h5>
+        <h5>AC PCB Repairing Institute</h5>
         <p></p>
         <p> <i class="fa fa-map-marker"></i> 9/4 A, 2nd Floor Tilak Nagar,
           Ashok Nagar Near Metro Gate
           No.- 3 New Delhi, Delhi-110018</p>
-        <p><i class="fa fa-phone"></i> +91-9716992246</p>
-        <p><i class="fa fa-envelope"></i> cctvtraininghubdelhi@gmail.com</p>
-        <p><i class="fa fa-globe"></i> www.cctvtraininghub.com</p>
+        <p><i class="fa fa-phone"></i> +91-9599704405</p>
+        <p><i class="fa fa-envelope"></i> acrepairingcourse@gmail.com</p>
+        <p><i class="fa fa-globe"></i> www.acrepairingcourse.in</p>
       </div>
 
     </div>
