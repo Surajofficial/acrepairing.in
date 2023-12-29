@@ -41,7 +41,7 @@ $robots = "index, follow";
             <p class="text-justify">Our carefully designed Inverter Repairing Course ensures a comprehensive understanding of inverter principles, diagnostic procedures, and repair methodologies for both novices and experts. Students explore the fundamentals of inverters, learning about their parts, functions, and the ideas that guide their operations through a curriculum created by professionals in the field.</p>
         </div>
         <div class="col-sm-5">
-            <iframe width="100%" height="312" src="https://www.youtube.com/embed/OQS1JKG_DH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="312" src="https://www.youtube.com/embed/crNgmXZTji0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="col-12">
             <h5 class="text-blue">Learning by Doing: Hands-On Inverter Experience</h5>
@@ -53,16 +53,7 @@ $robots = "index, follow";
             <p class="text-justify">After completing the course successfully, students have a skill set that makes them highly sought-after professionals in the field. Our inverter repair course graduates can find employment in a variety of fields, such as manufacturing, maintenance, and repair services, as well as renewable energy. Their comprehensive knowledge and hands-on experience from the curriculum enable them to confidently handle challenging inverter problems and make valuable contributions to their jobs.</p>
         </div>
     </div>
-    <div class="row pt-5">
-        <div class="col-sm-12">
-            <h2 class="text-blue">SECURE YOUR HOME AND OFFICES</h2>
-        </div>
-        <div class="col-sm-12 text-center bg-light p-5">
-            <p class="color-dark">You can also download or save prospectus of CCTV Training Course.</p>
-            <a href="./assets/images/cctv_training_course.pdf" class="btn btn-primary" download="">Download Prospectus!</a>
-        </div>
-
-    </div>
+    <?php include './prospect.php' ?>
 </div>
 <div class="bg-blue mt-4 color-light">
     <div class="container-fluid pb-5">

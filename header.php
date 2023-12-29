@@ -48,9 +48,7 @@ if (!(isset($url))) {
     <div class="container-fluid m-0 p-0 mt-0 text-center mobile_section">
         <div class="container-fluid mt-0 for-mobile mkmarquee">
             <marquee loop="-1">
-                ONLINE COURSES AVAILABLE | लैपटॉप और मोबाइल रिपेयरिंग के लिए BGA और
-                OCA मशीन पर ट्रेनिंग | 100% प्रैक्टिकल के साथ रिपेयरिंग
-                सीखे|</marquee>
+                AC PCB और AC MECHANICAL रिपेयरिंग कोर्स सीखे 100% प्रैक्टिकल ट्रेनिंग के साथ !</marquee>
         </div>
     </div>
     <div class="container-fluid " style="font-weight: bolder">
@@ -62,22 +60,7 @@ if (!(isset($url))) {
             </div>
             <div class="col-sm-6 ml-auto text-right">
                 <div class="social-links text-white">
-                    Connect with us:
-                    <a href="https://www.facebook.com/multitechinstitute" target="_blank" class="facebook icon">
-                        <i class="fa fa-facebook-f"></i>
-                    </a>
-                    <a href="https://twitter.com/Multitechdelhi" class="twitter icon" target="_blank">
-                        <i class="fa fa-twitter"></i>
-                    </a>
-                    <a href="https://www.youtube.com/c/MultitechInstituteOfAdvanceTechnologies/featured" target="_blank" class="youtube icon">
-                        <i class="fa fa-youtube"></i>
-                    </a>
-                    <a href="https://www.linkedin.com/in/multitechdelhi/" target="_blank" class="linkedin icon">
-                        <i class="fa fa-linkedin"></i>
-                    </a>
-                    <a href="https://www.instagram.com/multitechdelhi/" target="_blank" class="instagram icon">
-                        <i class="fa fa-instagram"></i>
-                    </a>
+                    JOIN FREE LIVE DEMO CLASSES
                 </div>
             </div>
         </div>

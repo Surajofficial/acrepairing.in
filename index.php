@@ -47,18 +47,19 @@ $robots = "index, follow";
 
   </div>
 </div>
-<div class="container-fluid bg-org my-3">
+<div class="container-fluid bg-org my-3 p-2">
   <div class="row">
-    <div class="col-sm-6 pt-4 pr-5 pl-5 pb-0 ">
+    <div class="col-sm-6 pt-4 pr-5 pl-5 pb-0  p-1">
       <h3>AC Mechanical Repairing Course</h3>
       <span style="border-bottom: 3px solid #0061b4; width:500px!important;"></span>
-      <p class="text-justify"><br>Upgrade your air conditioning career by enrolling in EasyCools AC Mechanical Repair Course. This comprehensive program is tailored for individuals who're eager to explore the intricacies of AC systems with a focus, on mechanical components. No extensive educational background is necessary. <br>Deepen Your Understanding of Mechanical Components; Develop an understanding of the mechanical elements present in AC systems.
-        <br>Enhance Your Diagnostic Skills; Learn techniques to diagnose and troubleshoot issues.
-        Master Advanced Repair Techniques; Acquire the skills to repair and optimize components ensuring peak performance, for AC systems.
+      <p class="text-justify">Welcome to the leading AC Repairing Institute in India, where quality meets reliability. Renowned for our exceptional instruction and hands-on training in air conditioning systems, we're dedicated to shaping proficient industry-ready professionals. Offering a variety of courses designed to impart comprehensive knowledge and practical skills, we stand as a hallmark of excellence.
+      </p>
+      <h3>Comprehensive AC Repairing Course: Mastery in Expert Training</h3>
+      <p class="text-justify">Ready for a transformative journey? Explore our Comprehensive AC Repairing Course. Are you eager to gain mastery in air conditioning systems? Our meticulously crafted curriculum, guided by experienced professionals, covers basics to advanced troubleshooting. Are you prepared to tackle real-world challenges in AC maintenance? Enroll today and earn industry-recognized certifications, stepping confidently into a rewarding profession.
       </p>
       <a href="./assets/images/cctv_training_course.pdf" class="btn btn-primary" download>Download Prospectus</a>
     </div>
-    <div class="col-sm-6 p-0">
+    <div class="col-sm-6 p-0 p-auto m-auto">
       <img src="assets/images/banner/ac image.jpg" alt="ac image" style="width:100%;height:400px;">
     </div>
   </div>

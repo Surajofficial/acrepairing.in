@@ -41,7 +41,7 @@ $robots = "index, follow";
             <p class="text-justify">Our institute's Led TV Repairing Course is the result of state-of-the-art instruction combined with hands-on experience. </p>
         </div>
         <div class="col-sm-5">
-            <iframe width="100%" height="312" src="https://www.youtube.com/embed/OQS1JKG_DH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="312" src="https://www.youtube.com/embed/wpoZ44I7MGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="col-12">
             <p class="text-justify">Our faculty, who are industry veterans and specialists, makes sure that every student learns everything there is to know about LED TV circuits, parts, troubleshooting, and repair procedures. Our course covers everything, from comprehending the subtleties of LED panels to exploring the complexity of circuit boards. We stand out for our practical approach. Under the supervision of knowledgeable mentors, students have the chance to interact with a variety of LED TV models, analyzing and diagnosing problems in real time. Their abilities are sharpened by this hands-on experience, which also gives them confidence and competence in managing a variety of repair problems.
@@ -52,16 +52,7 @@ $robots = "index, follow";
             <p class="text-justify">The course material is designed to meet the needs of both novices and experts in the field of electronics. The course begins with the basics and works its way up to more complex subjects, making sure that students have a thorough understanding of LED TV repair methods. We place a strong emphasis on combining academic knowledge with real-world application to better equip our students to handle obstacles they may face in the workplace. Student-centricity is a top priority at the Led TV Repairing Institute. With its cutting-edge amenities, our classrooms provide an engaging and helpful learning environment. We are committed to providing each student with the individualized attention and assistance they need to succeed in their educational endeavors.</p>
         </div>
     </div>
-    <div class="row pt-5">
-        <div class="col-sm-12">
-            <h2 class="text-blue">SECURE YOUR HOME AND OFFICES</h2>
-        </div>
-        <div class="col-sm-12 text-center bg-light p-5">
-            <p class="color-dark">You can also download or save prospectus of CCTV Training Course.</p>
-            <a href="./assets/images/cctv_training_course.pdf" class="btn btn-primary" download="">Download Prospectus!</a>
-        </div>
-
-    </div>
+    <?php include './prospect.php' ?>
 </div>
 <div class="bg-blue mt-4 color-light">
     <div class="container-fluid pb-5">

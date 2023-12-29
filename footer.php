@@ -4,13 +4,7 @@
       <div class="col-sm-3 color-light">
         <h5 class="color-light  font-weight-bold ">About us</h5>
         <p class="ft-14 text-gray ">AC PCB Repairing Institute is an ISO 9001:2008 Certified Institute with expert
-          faculty and focusing in the area of training of AC PCB Repairing course</p>
-        <a href="https://www.facebook.com/multitechinstitute" class="p-2 color-light"><i class="fa fa-facebook"></i></a>
-        <a href="https://www.instagram.com/multitechdelhi/" class="p-2 color-light"><i class="fa fa-instagram"></i></a>
-        <a href="https://www.youtube.com/c/MultitechInstituteOfAdvanceTechnologies/featured" class="p-2 color-light"><i class="fa fa-youtube"></i></a>
-        <a href="https://twitter.com/Multitechdelhi" class="p-2 color-light"><i class="fa fa-twitter"></i></a>
-        <a href="https://www.linkedin.com/in/multitechdelhi/" class="p-2 color-light"><i class="fa fa-linkedin"></i></a>
-        <a href="https://www.reddit.com/user/Multitechdelhi" class="p-2 color-light"><i class="fa fa-reddit"></i></a>
+
       </div>
       <div class="col-sm-3">
         <h5 class="color-light font-weight-bold">Courses</h5>
@@ -121,13 +115,13 @@
 </div>
 
 <div id="callbook" class="mobile-call">
-  <a id="cb_call" class="actioncall" href="tel:9716460781">
+  <a id="cb_call" class="actioncall" href="tel:9599704405">
     <span style="padding:0 5px 0 0;" class="callbook-icona-telefono">
       <i class="fa fa-phone"></i>
     </span>
     <span class="callbook-align" style="margin-right:15px;">Call now</span>
   </a>
-  <a id="cb_book" class="actionbook" target="_blank" href="https://api.whatsapp.com/send?phone=9716460781&amp;text=Hi%20cctv&amp;source=&amp;data=">
+  <a id="cb_book" class="actionbook" target="_blank" href="https://api.whatsapp.com/send?phone=9599704405&amp;text=Hi%20cctv&amp;source=&amp;data=">
     <span class="callbook-align" style="margin-left:15px;">WhatsApp</span>
     <span style="padding:0 0 0 5px;" class="callbook-icona-calendario">
       <i class="fa fa-whatsapp"></i>

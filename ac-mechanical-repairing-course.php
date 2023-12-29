@@ -41,7 +41,7 @@ $robots = "index, follow";
             <p class="text-justify">Our curriculum at Ac Mechanical Institute includes a broad range of AC mechanical courses that are intended to give students a comprehensive grasp of air conditioning systems. From basic ideas to sophisticated methods, our courses address:</p>
         </div>
         <div class="col-sm-5">
-            <iframe width="100%" height="312" src="https://www.youtube.com/embed/OQS1JKG_DH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="312" src="https://www.youtube.com/embed/1YDWDXDA-8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="col-12">
             <p class="text-justify"><strong>Overview of AC Systems:</strong> Acquire a firm grasp of the fundamentals of air conditioning, as well as knowledge of the parts and how the system works.</p>
@@ -61,16 +61,7 @@ $robots = "index, follow";
             <p class="text-justify"><strong>Up-to-Date Skills:</strong> Develop skills that are up to date with industry standards to improve your employability and career chances in the booming HVAC business.</p>
         </div>
     </div>
-    <div class="row pt-5">
-        <div class="col-sm-12">
-            <h2 class="text-blue">SECURE YOUR HOME AND OFFICES</h2>
-        </div>
-        <div class="col-sm-12 text-center bg-light p-5">
-            <p class="color-dark">You can also download or save prospectus of CCTV Training Course.</p>
-            <a href="./assets/images/cctv_training_course.pdf" class="btn btn-primary" download="">Download Prospectus!</a>
-        </div>
-
-    </div>
+    <?php include './prospect.php' ?>
 </div>
 <div class="bg-blue mt-4 color-light">
     <div class="container-fluid pb-5">
