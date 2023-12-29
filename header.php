@@ -41,7 +41,7 @@ if (!(isset($url))) {
     <!-- Style -->
     <link rel="stylesheet" href="assets/css/style2.css" />
     <link rel="shortcut icon" href="assets/images/fav.png" type="image/x-icon">
-    <link rel="icon" href="assets/images/fav.png" type="image/x-icon">
+    <!-- <link rel="icon" href="assets/images/fav.png" type="image/x-icon"> -->
 </head>
 
 <body>
