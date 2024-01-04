@@ -20,7 +20,7 @@ $robots = "index, follow";
 
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block w-100" src="assets/images/banner/ac mechancialbanner.jpg" alt="ac mechancialbanner.jpg" class="fluid-img">
+                            <img class="d-block w-100" src="assets/images/banner/ac mechanical course 1.jpg" alt="ac mechancialbanner.jpg" class="fluid-img">
                         </div>
                     </div>
                 </div>
