@@ -36,7 +36,7 @@ if (!(isset($url))) {
     <meta name="robots" content="<?php echo $robots; ?>" />
     <link rel="stylesheet" href="assets/fonts/icomoon/style.css" />
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
-    <link rel="canonical" href="https://www.acrepairingcourse.in<?= $canonical ?>">
+    <link rel="canonical" href="https://www.acrepairingcourse.in<?php echo $canonical; ?>">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <!-- Style -->
