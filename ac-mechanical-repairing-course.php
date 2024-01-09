@@ -1,6 +1,7 @@
 <?php
-$title = " Ac Mechanical Repairing Course | Ac Repairing Institute";
-$description = " ";
+$title = "Join AC Mechanical Institute | AC Mechanical Repairing Course";
+$description = "Join AC Mechanical Institute for expert guidance in AC Mechanical Repairing Courses. Gain hands-on experience, learn troubleshooting techniques and master HVAC systems. Enroll today to become an expert in the AC Mechanical Repairing Course and start your career in AC Repairing.
+";
 $keyword = " ";
 $classification = "";
 $geography = "India";
@@ -37,7 +38,7 @@ $robots = "index, follow";
             <h1 class="font-weight-bold text-blue">Ac Mechanical Institute: Your Gateway to Mastering AC Systems</h1>
             <p class="text-justify">Do you have a strong interest in comprehending the nuances of air conditioning systems? You need look no further than Ac Mechanical Institute, where superiority and experience collide in AC mechanical education. Being a top organization committed to empowering enthusiasts and industry professionals, we provide extensive programs that are appropriate for both novices and experts.
             </p>
-            <h5 class=" text-blue">Learn About the Universe of AC Mechanical Systems</h5>
+            <h2 class=" text-blue">Learn About the Universe of AC Mechanical Systems</h2>
             <p class="text-justify">Our curriculum at Ac Mechanical Institute includes a broad range of AC mechanical courses that are intended to give students a comprehensive grasp of air conditioning systems. From basic ideas to sophisticated methods, our courses address:</p>
         </div>
         <div class="col-sm-5">
@@ -51,7 +52,7 @@ $robots = "index, follow";
             <p class="text-justify"><strong>HVAC Controls:</strong> Discover the complex control mechanisms that are essential to preserving ideal temperatures and air quality in a range of settings.</p>
 
             <p class="text-justify"><strong>Installation and Upkeep:</strong> To guarantee the longevity and effectiveness of AC systems, become an expert in their installation and maintenance.</p>
-            <h5 class=" text-blue">Ac Mechanical Institute: Why Would You Choose It?</h5>
+            <h3 class=" text-blue">Ac Mechanical Institute: Why Would You Choose It?</h3>
             <p class="text-justify"><strong>Knowledgeable Faculty:</strong> Get insights and useful information from seasoned professionals and industry experts with a wealth of experience in the subject.</p>
 
             <p class="text-justify"><strong>Modern AC Systems and Laboratories:</strong> Access state-of-the-art laboratories and modern AC systems, providing students with hands-on experience to fully understand the principles.</p>

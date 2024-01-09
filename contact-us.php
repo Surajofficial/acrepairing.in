@@ -1,6 +1,6 @@
 <?php
-$title = "Contact us | Ac Repairing Institute";
-$description = " ";
+$title = "Contact us for join AC Repairing Course";
+$description = "Our AC Repair Institute is Located near Tilak Nagar Metro, Ashok Nagar, New Delhi-110018. You can contact us through our website or phone number - 9599704405";
 $keyword = " ";
 $classification = "";
 $geography = "India";

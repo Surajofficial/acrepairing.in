@@ -1,6 +1,6 @@
 <?php
-$title = "Ac PCB Repairing Course in Delhi |  Call Us: 9599704405";
-$description = "";
+$title = "AC Repairing Course | Best AC PCB Repairing Institute In India";
+$description = "Discover the top AC Repairing Institute in India offering comprehensive guidance for AC Repairing. If you are interested in AC Repairing Course join us. Our Institute provides complete AC repair training.";
 $keyword = "";
 $classification = "";
 $geography = "India";
@@ -49,18 +49,20 @@ $robots = "index, follow";
 </div>
 <div class="container-fluid bg-org my-3 p-2">
   <div class="row">
-    <div class="col-sm-6 pt-4 pr-5 pl-5 pb-0  p-1">
-      <h3>AC Mechanical Repairing Course</h3>
+    <div class="col-sm-6 pt-4 pr-3 pl-3 pb-0  p-1">
+      <h3>AC Repairing Institute in India</h3>
       <span style="border-bottom: 3px solid #0061b4; width:500px!important;"></span>
       <p class="text-justify">Welcome to the leading AC Repairing Institute in India, where quality meets reliability. Renowned for our exceptional instruction and hands-on training in air conditioning systems, we're dedicated to shaping proficient industry-ready professionals. Offering a variety of courses designed to impart comprehensive knowledge and practical skills, we stand as a hallmark of excellence.
       </p>
-      <h3>Comprehensive AC Repairing Course: Mastery in Expert Training</h3>
+      <h3>AC Repairing Course : Expert Training</h3>
       <p class="text-justify">Ready for a transformative journey? Explore our Comprehensive AC Repairing Course. Are you eager to gain mastery in air conditioning systems? Our meticulously crafted curriculum, guided by experienced professionals, covers basics to advanced troubleshooting. Are you prepared to tackle real-world challenges in AC maintenance? Enroll today and earn industry-recognized certifications, stepping confidently into a rewarding profession.
       </p>
+      <h3>Join Best Institute for AC Repairing Training</h3>
+      <p class="text-justify">Step into our reputable Institute, celebrated for its unwavering dedication to top-notch AC Repairing training. Are you seeking an institution that sets benchmarks in excellence? Led by industry professionals, our institute offers a life-changing educational experience. Are you passionate about succeeding in the dynamic field of air conditioning repair? Our comprehensive education prepares you for success. Join us on this journey to expertise and success in AC Repair.</p>
       <a href="./assets/images/cctv_training_course.pdf" class="btn btn-primary" download>Download Prospectus</a>
     </div>
     <div class="col-sm-6 p-0 p-auto m-auto">
-      <img src="assets/images/banner/ac image.jpg" alt="ac image" style="width:100%;height:400px;">
+      <img src="assets/images/banner/ac image.jpg" alt="ac image" style="max-width:100%;height:auto;object-fit: contain !Important;">
     </div>
   </div>
 
@@ -195,35 +197,35 @@ $robots = "index, follow";
           <div class="p-3 text-center branch-box" style="background-color: rgb(246, 246, 246);">
 
 
-            <h5 class="pt-1">RAKESH RAUNIYAR</h5>
-            <p>Location is next to metro gate. You can see the institute building from metro station. Very good interior and machine room for trainee. Good environment and expert trainer Perfect Institute For cctv camera Repairing Course .</p>
+            <h5 class="pt-1">Arjun Kumar</h5>
+            <p>I joined AC Repairing Institute looking to enhance my skills in AC repair. The location near the metro station is convenient, and the institute's infrastructure is impressive. The hands-on training in the machine room with expert guidance has truly made this course worthwhile.</p>
             <a href="#">read more</a>
           </div>
         </div>
         <div class="col-sm-3 text-center">
           <div class="p-3 text-center branch-box" style="background-color: rgb(246, 246, 246);">
 
-            <h5 class="pt-1">ASHOK SAAHOO</h5>
+            <h5 class="pt-1">Rajiv Singh</h5>
             <p>
-              It is the very good institute for learning CCTV Camera repairing and many other my teacher Vikram Sir guides us very well with explanation about CCTV Camera and clear all our doubts so if anyone want to learn go ahead.
+              Enrolling in the AC Repairing Courses at this institute was a game-changer for me. The trainers' expertise and their practical approach made the sessions highly informative. Now, equipped with this knowledge, I confidently pursue repairing projects in my area.
             </p>
             <a href="#">read more</a>
           </div>
         </div>
         <div class="col-sm-3 text-center">
           <div class="p-3 text-center branch-box" style="background-color: rgb(246, 246, 246);">
-            <h5 class="pt-1">DEPPAK SOMAN</h5>
+            <h5 class="pt-1">Deepak Soman</h5>
             <p>
-              I am Deepak Soman, I am fully satisfy from Multitech institute class. I have done course for Camera repiring course. The trainer of multitech are well experienced. Now I am doing my own business for repairing in my city. Thanks.
+              I completed the AC & LED TV Repairing Course at this institute and am entirely satisfied with the experience. The trainers are highly experienced. I've started my own repair business in my city, thanks to the valuable training I received here
             </p>
             <a href="#">read more</a>
           </div>
         </div>
         <div class="col-sm-3 text-center">
           <div class="p-2 pd-0 text-center branch-box" style="background-color: rgb(246, 246, 246);">
-            <h5 class="pt-1">MANOJ BHANDARI</h5>
+            <h5 class="pt-1">Amit Kumar</h5>
             <p>
-              मैंने CCTV Camer रीपेयरिंग कोर्स यहाँ से किया और आज अपनी खुद कि दुकान खोलकर लगभग 35 से 40 हजार प्रति माह कमा लेता हु. मुझे इस इंस्टिट्यूट से सीखने के बाद पूरा सपोर्ट मिला आगे के काम कैसे करना है इसके बारे जानने' के लिए बहुत हि अच्छे तरीके से यहाँ मुझे रिपेयरिंग सिखाया गया और सारी मशीन रिपेयरिंग के इनके लैब में मौजूद है
+              The trainers at AC Repairing Institute are exceptional. The hands-on training and industry-oriented curriculum prepared me well for real-world challenges. Now, I'm confidently earning 35K monthly through the skills I acquired here.
             </p>
             <a href="#">read more</a>
           </div>

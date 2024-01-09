@@ -36,12 +36,19 @@ if (!(isset($url))) {
     <meta name="robots" content="<?php echo $robots; ?>" />
     <link rel="stylesheet" href="assets/fonts/icomoon/style.css" />
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
+    <link rel="canonical" href="https://www.http://acrepairingcourse.in">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <!-- Style -->
     <link rel="stylesheet" href="assets/css/style2.css" />
-    <link rel="shortcut icon" href="assets/images/fav.png" type="image/x-icon">
+    <!-- <link rel="shortcut icon" href="assets/images/fav.png" type="image/x-icon"> -->
     <!-- <link rel="icon" href="assets/images/fav.png" type="image/x-icon"> -->
+    <style>
+        body {
+            max-width: 100vw !important;
+            overflow-x: hidden;
+        }
+    </style>
 </head>
 
 <body>
@@ -128,30 +135,30 @@ if (!(isset($url))) {
                                                         </a>
                                                     </li>
                                                     <li class="nav-item drop2">
-                                                        <a class="nav-link dropdown-toggle drop1" href="<?php echo $url; ?>ac-pcb-repairing-course.php">
+                                                        <a class="nav-link dropdown-toggle drop1" href="<?php echo $url; ?>ac-pcb-repairing-course.html">
                                                             Our Course
                                                         </a>
                                                         <ul class="drop_down">
                                                             <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>ac-pcb-repairing-course.php">AC PCB Repairing Course</a>
+                                                                <a class="dropdown-item" href="<?php echo $url; ?>ac-pcb-repairing-course.html">AC PCB Repairing Course</a>
                                                             </li>
                                                             <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>ac-mechanical-repairing-course.php">AC Mechanical Repairing Course</a>
+                                                                <a class="dropdown-item" href="<?php echo $url; ?>ac-mechanical-repairing-course.html">AC Mechanical Repairing Course</a>
                                                             </li>
                                                             <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>led-tv-repairing-course.php">LED TV Repairing Course</a>
+                                                                <a class="dropdown-item" href="<?php echo $url; ?>led-tv-repairing-course.html">LED TV Repairing Course</a>
                                                             </li>
                                                             <li>
-                                                                <a class="dropdown-item" href="<?php echo $url; ?>inverter-repairing-course.php">Inverter Repairing Course</a>
+                                                                <a class="dropdown-item" href="<?php echo $url; ?>inverter-repairing-course.html">Inverter Repairing Course</a>
                                                             </li>
                                                         </ul>
 
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="nav-link" href="<?php echo $url; ?>aboutus.php">About Us</a>
+                                                        <a class="nav-link" href="<?php echo $url; ?>about-us.html">About Us</a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="nav-link" href="<?php echo $url; ?>contactus.php">Contact Us</a>
+                                                        <a class="nav-link" href="<?php echo $url; ?>contact-us.html">Contact Us</a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -166,7 +173,7 @@ if (!(isset($url))) {
             <div class="col-6 col-sm-2 mobile-nav d-flex justify-content-center align-items-center" style="height: 40px; background-color: #0061b4">
                 <header>
                     <nav class="navbar navbar-expand-lg">
-                        <a href="contact.php">
+                        <a href="contact.html">
                             <button type="button" class="text-white" id="enquiry">
                                 <i class="fa fa fa-envelope"></i> &nbsp; ENQUIRY
                             </button>

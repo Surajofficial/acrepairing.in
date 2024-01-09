@@ -1,6 +1,6 @@
 <?php
-$title = " Ac Repairing Course | Ac Repairing Institute";
-$description = " ";
+$title = "AC PCB Repairing Course | AC PCB Training Institute";
+$description = "Discover the top AC PCB Repairing Institute in India offering comprehensive guidance for AC PCB Repairing. We provide pcb level training in AC PCB Repairing Course.";
 $keyword = " ";
 $classification = "";
 $geography = "India";
@@ -20,7 +20,7 @@ $robots = "index, follow";
 
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block w-100" src="assets/images/banner/ac mechancialbanner.jpg" alt="ac mechancialbanner.jpg" class="fluid-img">
+                            <img class="d-block w-100" src="assets/images/banner/BANNER HOME PAGE.jpg" alt="ac mechancialbanner.jpg" class="fluid-img">
                         </div>
                     </div>
                 </div>
@@ -36,7 +36,7 @@ $robots = "index, follow";
 
             <h1 class="font-weight-bold text-blue">AC PCB Repairing Course</h1>
             <p class="text-justify">Our extensive training at AC PCB Repairing Institute begins with establishing a solid understanding of Air Conditioning Printed Circuit Boards (PCBs). Pupils explore the complex world of these essential parts, understanding their composition, capabilities, and importance in the larger picture of AC systems. Participants receive in-depth understanding of PCB composition through comprehensive modules, which also teach them how to recognize and understand the numerous components included on these boards.</p>
-            <h5 class=" text-blue">Practical Training: Integrating Theory and Practical Experience</h5>
+            <h2 class=" text-blue">Practical Training: Integrating Theory and Practical Experience</h2>
             <p class="text-justify">
                 हमारा Institute AC PCB Repairing course के लिए सबसे उत्तम Institute है। हम AC PCB के काम करने की तकनीकों को सिखाते हैं, जिसमें समस्याओं का पता लगाना, उन्हें ठीक करना और नई तकनीकों का उपयोग करना शामिल होता है। हमारे पाठ्यक्रम में अनुभवी शिक्षक हैं जो आपको प्रैक्टिकल ज्ञान प्रदान कराते हैं ताकि आप एक अच्छे और अनुभवी AC PCB तकनीशियन बन सकें।
 
@@ -55,11 +55,11 @@ $robots = "index, follow";
                 <br>
                 Our curriculum places a strong emphasis on practical training. We sincerely believe that to truly excel at repairing AC PCBs, theoretical knowledge must be supplemented with practical experience. Students work with actual PCBs under the supervision of knowledgeable teachers, honing their soldering, troubleshooting, and safety procedures. They gain accurate fault diagnosis and effective repair skills from these hands-on lessons, which equip them for the obstacles they will face in the field.
             </p>
-            <h5 class=" text-blue">Advanced Methods and Industry-Related Competencies</h5>
+            <h3 class=" text-blue">Advanced Methods and Industry-Related Competencies</h3>
             <p class="text-justify">
                 We make sure that our students leave our course with advanced approaches and skills that apply to the workplace, not simply the fundamentals. Participants go beyond just comprehending the basic operation of AC PCBs to gain a deeper understanding of circuit diagrams and become proficient in their interpretation and analysis. The different kinds of AC systems and how their complexities affect PCB design and repair procedures are also covered in the program. In addition, we place a strong emphasis on keeping up with the most recent technical developments in the sector to make sure our graduates are qualified to work with contemporary AC systems.
             </p>
-            <h5 class=" text-blue">Innovative Techniques and Sector-Related Proficiencies</h5>
+            <h3 class=" text-blue">Innovative Techniques and Sector-Related Proficiencies</h3>
             <p class="text-justify">
                 We make sure that instead of only learning the basics, our students graduate from our course with sophisticated methods and skills that are applicable in the job. Participants get a deeper comprehension of circuit designs and become skilled in their interpretation and analysis, going beyond simply knowing how AC PCBs operate on a basic level. The training also covers the many types of AC systems and how their complexity impacts PCB design and repair processes. Keeping up with the latest technical advancements in the industry is also a top priority for us to ensure that our graduates are equipped to work with modern AC systems.
             </p>
