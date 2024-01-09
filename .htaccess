@@ -1,12 +1,8 @@
 <IfModule mod_rewrite.c>
-  RewriteEngine On
-  # RewriteBase /
-  # RewriteRule ^index\.php$ - [L]
-  # RewriteCond %{REQUEST_FILENAME} !-f
-  # RewriteCond %{REQUEST_FILENAME} !-d
-  # RewriteRule . /index.php [L]
-   # Rewrite requests for .php to .html
-   # Rewrite requests for .php to .html
+    RewriteEngine On
+    RewriteBase /
+
+    # Redirect .php to .html
     RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteRule ^([^\.]+)\.php$ $1.html [NC,L]
+    RewriteRule ^(.+)\.php$ /$1.html [L,R=301]
 </IfModule>
