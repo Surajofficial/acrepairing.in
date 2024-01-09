@@ -2,6 +2,7 @@
 $title = "AC Repairing Course | Best AC PCB Repairing Institute In India";
 $description = "Discover the top AC Repairing Institute in India offering comprehensive guidance for AC Repairing. If you are interested in AC Repairing Course join us. Our Institute provides complete AC repair training.";
 $keyword = "";
+$canonical = "";
 $classification = "";
 $geography = "India";
 $country = "india";

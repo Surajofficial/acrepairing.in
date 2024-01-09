@@ -2,6 +2,7 @@
 $title = "AC PCB Repairing Course | AC PCB Training Institute";
 $description = "Discover the top AC PCB Repairing Institute in India offering comprehensive guidance for AC PCB Repairing. We provide pcb level training in AC PCB Repairing Course.";
 $keyword = " ";
+$canonical = "/ac-pcb-repairing-course.html";
 $classification = "";
 $geography = "India";
 $country = "india";

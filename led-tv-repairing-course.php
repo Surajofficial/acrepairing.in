@@ -5,6 +5,7 @@ $keyword = " ";
 $classification = "";
 $geography = "India";
 $country = "india";
+$canonical = "/led-tv-repairing-course.html";
 $copyright = "Ac PCB Repairing Institute";
 $designer = "Ac PCB Repairing Institute";
 $language = "english";

@@ -2,6 +2,7 @@
 $title = "AC PCB Repairing Institute in Delhi";
 $description = "Reputable Institute in Delhi for AC PCB Repairing | We have multiple Courses in AC Repairing , AC Mechanical Repairing Course, Inverter Repairing Course.";
 $keyword = " ";
+$canonical = "/about-us.html";
 $classification = "";
 $geography = "India";
 $country = "india";

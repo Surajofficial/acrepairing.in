@@ -4,6 +4,7 @@ $description = "Best Institute for Inverter Repairing in Delhi, join our compres
 $keyword = " ";
 $classification = "";
 $geography = "India";
+$canonical = "/inverter-repairing-course.html";
 $country = "india";
 $copyright = "Ac PCB Repairing Institute";
 $designer = "Ac PCB Repairing Institute";
